@@ -1,6 +1,3 @@
 language: java
 
-script: 
-  - cd scripts
-  - chmod a+x tests.sh
-  - sh tests.sh
+script: sh tests.sh
